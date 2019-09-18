@@ -1,5 +1,5 @@
-a=input("enter value a\n")
-b=input("enter value b\n")
+a=input("enter value a : ")
+b=input("enter value b : ")
 
 if(a>b):
  print(a)
